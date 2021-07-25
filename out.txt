@@ -1,0 +1,4 @@
+def lrXLhRjQVM():
+    print('this is a lrXLhRjQVM')
+
+lrXLhRjQVM()
