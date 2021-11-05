@@ -127,9 +127,11 @@ def generate_obfuscated_symbols() -> dict[str, str]:
     return symbol_dict
 
 def generate_random_word(length: int) -> str:
+    # WIP
     return ''.join(random.choice(allowed_chars) for i in range(length))
     
 def generate_junk() -> str:
+    # WIP
     return ""
 
 if __name__ == "__main__":
